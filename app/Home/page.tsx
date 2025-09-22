@@ -22,11 +22,9 @@ export default function Page() {
         <h1 className="text-5xl flex justify-start font-bold">
           Hi, I'm Kpamor
         </h1>
-        <p className=" flex justify-start">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi
-          commodi fugiat necessitatibus reprehenderit! Pariatur voluptatem
-          distinctio sunt quasi, autem in beatae illo architecto. Laudantium nam
-          explicabo esse doloribus, aliquam aspernatur!
+        <p className=" text-xl flex justify-start">
+         im a developer. I like being logical and organized. I love minimalist designs and 
+         I also teach Maths.
         </p>
       </div>
 
